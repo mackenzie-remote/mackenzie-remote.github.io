@@ -9,7 +9,7 @@
 title: RUN DMZ Limited
 email: website@rundmz.co.uk
 description: > # this means to ignore newlines until "baseurl:"
-  RUN DMZ Limited
+  RUN DMZ Limited is a private limited company registered in England and Wales (Company No: 08906798)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.rundmz.co.uk" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
